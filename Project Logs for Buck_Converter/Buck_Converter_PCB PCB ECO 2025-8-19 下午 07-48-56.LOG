@@ -1,0 +1,10 @@
+Added Component: Designator=D1(TO-220_Diode)
+Added Component: Designator=Q1(TO-220)N-MOSFET)
+Added Pin To Net: NetName=PG Pin=D1-A1
+Added Pin To Net: NetName=PG Pin=D1-A2
+Added Pin To Net: NetName=REF Pin=D1-K
+Added Pin To Net: NetName=NetC5_1 Pin=Q1-2
+Added Pin To Net: NetName=REF Pin=Q1-3
+Added Member To Class: ClassName=Buck_Converter Member=Component D1 STPS20H100C
+Added Member To Class: ClassName=Buck_Converter Member=Component Q1 N-MOSFET
+Added Room: Name=Buck_Converter

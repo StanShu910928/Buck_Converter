@@ -1,0 +1,4 @@
+Added Component: Designator=R17(RESISTOR_SMD_1206)
+Added Pin To Net: NetName=NetD4_K Pin=R17-1
+Added Pin To Net: NetName=GATE Pin=R17-2
+Added Member To Class: ClassName=Buck_Converter Member=Component R17 4R7
