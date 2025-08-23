@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EYGDHQSC
 
 [Document2]
-DocumentPath=Buck_Converter_PCB.PcbDoc
+DocumentPath=Buck_Converter_PCB_2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -70,7 +70,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ODJPLFVH
+DocumentUniqueId=AJCPMTUP
 
 [Document3]
 DocumentPath=Buck_Converter_PCB_1.PcbDoc
@@ -88,6 +88,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODJPLFVH
+
+[Document4]
+DocumentPath=Buck_Converter_PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AJCPMTUP
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Buck_Converter\Design Rule Check - Buck_Converter_PCB.html
