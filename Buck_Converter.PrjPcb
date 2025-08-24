@@ -70,7 +70,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AJCPMTUP
+DocumentUniqueId=MGRFLXOB
 
 [Document3]
 DocumentPath=Buck_Converter_PCB_1.PcbDoc
@@ -90,7 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ODJPLFVH
 
 [Document4]
-DocumentPath=Buck_Converter_PCB.PcbDoc
+DocumentPath=Buck_Converter_PCB_3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
