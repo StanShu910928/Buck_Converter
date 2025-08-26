@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Buck_Converter_PCB_7.PcbDoc   2025/8/26  ¤W¤È 08:54:29
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Buck_Converter_PCB_7.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      39mil (0.991mm)                                           Round             18        PTH        11.01inch (279.57mm)
+T2      49mil (1.245mm)                                           Round             3         PTH        0.20inch (5.08mm)
+T3      52mil (1.321mm)                                           Round             3         PTH        0.20inch (5.05mm)
+T4      75mil (1.905mm)                                           Round             16        PTH        8.27inch (210.02mm)
+T5      118mil (2.997mm)                                          Round             2         PTH        0.67inch (17.00mm)
+T6      138mil (3.505mm)                                          Round             4         PTH        14.57inch (370.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              46
+
+Total Processing Time (hh:mm:ss) : 00:00:00
