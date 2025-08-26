@@ -486,6 +486,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Buck_Converter\Design Rule Check - Buck_Converter_PCB.html
 DItemRevisionGUID=
 
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Buck_Converter\Design Rule Check - Buck_Converter_PCB_8.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
