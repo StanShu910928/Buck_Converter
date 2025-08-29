@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Altium_Designer_Project\Buck_Converter\Buck_Converter_PCB.PcbDoc
-Date     : 2025/8/27
-Time     : ¤W¤È 11:43:16
+Date     : 2025/8/30
+Time     : ¤W¤È 07:57:56
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -31,12 +31,10 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.001mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.001mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.001mm) Between Text "D3" (48.438mm,62.027mm) on Top Overlay And Pad C20-2(49.25mm,62.5mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.001mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0.001mm) Between Text "D3" (48.438mm,62.027mm) on Top Overlay And Track (48.5mm,61.925mm)(48.5mm,63.075mm) on Top Overlay Silk Text to Silk Clearance [0mm]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -45,5 +43,5 @@ Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 
-Violations Detected : 2
+Violations Detected : 0
 Time Elapsed        : 00:00:00
