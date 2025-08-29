@@ -1,12 +1,16 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Buck_Converter.PrjPcb]
-   Generated File[Buck_Converter_PCB_8.TXT]
-   Generated File[Buck_Converter_PCB_8.LDP]
-   Generated File[Buck_Converter_PCB_8.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Buck_Converter.PrjPcb]
+   Generated File[Buck_Converter_PCB_9.GTL]
+   Generated File[Buck_Converter_PCB_9.GBL]
+   Generated File[Buck_Converter_PCB_9.GD1]
+   Generated File[Buck_Converter_PCB_9.GG1]
+   Generated File[Buck_Converter_PCB_9.RUL]
+   Generated File[Buck_Converter_PCB_9.EXTREP]
+   Generated File[Buck_Converter_PCB_9.REP]
 
 
-Files Generated   : 3
+Files Generated   : 7
 Documents Printed : 0
 
-Finished Output Generation At ¤U¤È 08:04:01 On 2025/8/26
+Finished Output Generation At ¤U¤È 03:13:34 On 2025/8/28
